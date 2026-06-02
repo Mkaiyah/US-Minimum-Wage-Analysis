@@ -2,9 +2,9 @@
 Data analysis of minimum wage differences across the United States using R.
 
 ## Overview
-This project analyzes minimum wage differences across the United State using R. The goal is to explore wage variation across the states and determine whether significant differences exist between southern and non southern states.
+This project analyzes minimum wage differences across the United States using R. The goal is to explore wage variation across the states and determine whether significant differences exist between southern and non southern states.
 
-##Tools Used
+## Tools Used
 - R
 - RStudio
 - Google Sheets
