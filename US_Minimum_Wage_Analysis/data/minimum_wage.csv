@@ -1,0 +1,53 @@
+State,Minimum_Wage,Region,South
+,,,
+,,,
+Alabama,7.25,South ,yes
+Alaska,13,West,no
+Arizona,15.15,west,no
+Arkansas,11,South ,yes
+California,16.9,west,no
+Colorado,15.16,west,no
+Connecticut,16.94,Northeast,no
+Delaware,15,South ,yes
+Florida,14,South ,yes
+Georgia,7.25,South ,yes
+Hawaii,16,west,no
+Idaho,7.25,west,no
+Illinois,15,midwest,no
+Indiana,7.25,midwest,no
+Iowa,7.25,midwest,no
+Kansas,7.25,midwest,no
+Kentucky,7.25,South ,yes
+Louisiana,7.25,South ,yes
+Maine,15.1,northwest,no
+Maryland,15,South ,yes
+Massachusetts,15,northwest,no
+Michigan,13.75,midwest, no
+Minnesota,11.41,midwest,no
+Mississippi,7.25,South ,yes
+Missouri,15,midwest,no
+Montana,10.85,west,no
+Nebraska,15,midwest,no
+Nevada,12,west,no
+New Hampshire,7.25,northweast,no
+New Jersey,15.92,northeast,no
+New Mexico,12,west,no
+New York,16.5,northeast,no
+North Carolina,7.25,South ,yes
+North Dakota,7.25,midwest,no
+Ohio,11,midwest,no
+Oklahoma,7.25,South ,yes
+Oregon,15.05,west,no
+Pennsylvania,7.25,northeast,no
+Rhode Island,16,northeast,no
+South Carolina,7.25,South ,yes
+South Dakota,11.85,midwest,no
+Tennessee,7.25,South ,yes
+Texas,7.25,South ,yes
+Utah,7.25,west,no
+Vermont,14.42,northeast,no
+Virginia,12.77,South ,yes
+Washington,17.13,west,no
+West Virginia,8.75,South ,yes
+Wisconsin,7.25,midwest,no
+Wyoming,7.25,west,no
